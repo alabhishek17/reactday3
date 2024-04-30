@@ -1,0 +1,30 @@
+.subcontent{
+    display: flex;
+    margin: 40px;
+}
+.left{
+    width: 50%;
+}
+.left img{
+    width: 100%;
+}
+.right{
+    width: 50%;
+    background-color: #F3F4F5;
+    padding: 60px;
+    line-height: 1.5rem;
+    
+}
+.rightcontainer{
+    border: 2px solid;
+    padding: 50px;
+    margin: 40px;
+    gap: 20px;
+}
+
+.rightcontainer button{
+    padding: 10px 20px;
+    margin-top: 10px;
+    background-color: #4F46E5;
+    color: #F3F4F5;
+}
